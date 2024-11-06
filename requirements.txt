@@ -1,0 +1,7 @@
+numpy
+pandas
+rapidfuzz
+networkx
+matplotlib
+random
+collections

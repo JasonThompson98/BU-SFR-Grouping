@@ -3,4 +3,3 @@ pandas
 rapidfuzz
 networkx
 matplotlib
-collections
